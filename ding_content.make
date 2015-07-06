@@ -6,6 +6,9 @@ api = 2
 projects[cache_actions][subdir] = "contrib"
 projects[cache_actions][version] = "2.0-alpha5"
 
+projects[comment_notify][subdir] = "contrib"
+projects[comment_notify][version] = "1.2"
+
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.5"
 
