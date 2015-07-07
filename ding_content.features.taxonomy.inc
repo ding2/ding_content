@@ -21,7 +21,7 @@ function ding_content_taxonomy_default_vocabularies() {
       'name' => 'Tags',
       'machine_name' => 'ding_content_tags',
       'description' => NULL,
-      'hierarchy' => 2,
+      'hierarchy' => 0,
       'module' => 'ding_content',
       'weight' => 0,
     ),
